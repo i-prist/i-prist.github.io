@@ -1,8 +1,8 @@
-Thank you for using our template!
+HTML-макет Преображенского благочиния. 7 октября 2026 года.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Распакуйте архив и откройте index.html.
+Для публикации загрузите содержимое папки в корень репозитория i-prist/Preoblag-.
+GitHub: Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main → Folder: /(root) → Save.
+Адрес после публикации: https://i-prist.github.io/Preoblag-/
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Это статический макет для презентации. CMS, импорт новостей, отправка форм и платежи в нём не работают. Поиск работает локально по страницам макета. Карты и внешние источники требуют интернет.
