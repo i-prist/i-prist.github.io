@@ -1,0 +1,6 @@
+(()=>{
+ const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const form=document.querySelector('form.filters');if(!form)return;
+ if(location.pathname.endsWith('search.html')){const show=q=>{let box=document.querySelector('#static-results');if(!box){box=document.createElement('div');box.id='static-results';form.after(box);}const hits=q?window.presentationIndex.filter(x=>(x.title+' '+x.text).toLowerCase().includes(q.toLowerCase())):[];box.innerHTML='<p>Найдено: '+hits.length+'</p>'+hits.map(x=>'<article class="service"><div style="grid-column:1/-1"><h3><a href="'+x.url+'">'+esc(x.title)+'</a></h3><p>'+esc(x.text.slice(0,220))+'</p></div></article>').join('');};form.addEventListener('submit',e=>{e.preventDefault();show(new FormData(form).get('q')||'');});const q=new URLSearchParams(location.search).get('q');if(q){form.querySelector('[name=q]').value=q;show(q);}return;}
+ form.addEventListener('submit',e=>{e.preventDefault();const terms=[...new FormData(form)].filter(([k,v])=>v&&k!=='date'&&k!=='view').map(([k,v])=>{const f=form.elements.namedItem(k);return (f?.tagName==='SELECT'?f.selectedOptions[0].textContent:v).toLowerCase();});document.querySelectorAll('main .card,main .service').forEach(x=>{x.hidden=!terms.every(t=>x.textContent.toLowerCase().includes(t));});});
+})();
