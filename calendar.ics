@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 X-WR-TIMEZONE:Asia/Novosibirsk
 BEGIN:VEVENT
 UID:cathedral-20261019-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261019T010000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
@@ -16,7 +16,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261019-1700@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261019T100000Z
 SUMMARY:Вечернее богослужение мученикам Се
  ргию и Вакху
@@ -28,7 +28,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261020-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261020T010000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
@@ -39,7 +39,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261020-0930@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261020T023000Z
 SUMMARY:Панихида в день памяти епископа Сер
  гия (Соколова)
@@ -51,7 +51,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261020-1200@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261020T050000Z
 SUMMARY:Панихида в день памяти епископа Сер
  гия (Соколова)
@@ -68,7 +68,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261020-1700@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261020T100000Z
 SUMMARY:Вечернее богослужение преподобной 
  Пелагии
@@ -80,7 +80,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-meeting-20261020-1800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261020T110000Z
 SUMMARY:Беседа перед Крещением
 LOCATION:Преображенский кафедральный собор
@@ -92,7 +92,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/events/baptism-ta
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261021-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261021T010000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
@@ -103,7 +103,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261021-1700@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261021T100000Z
 SUMMARY:Полиелейное богослужение апостолу 
  Иакову Алфееву
@@ -115,7 +115,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261022-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261022T010000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
@@ -126,7 +126,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261022-1700@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261022T100000Z
 SUMMARY:Полиелейное богослужение преподоб
  ному Амвросию Оптинскому. Акафист
@@ -139,7 +139,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261023-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261023T010000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
@@ -151,7 +151,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261023-1700@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261023T100000Z
 SUMMARY:Вечернее богослужение апостолу Фил
  иппу\, единому от семи диаконов
@@ -164,7 +164,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261024-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261024T010000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
@@ -176,7 +176,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261024-0930@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261024T023000Z
 SUMMARY:Панихида
 LOCATION:Преображенский кафедральный собор
@@ -188,7 +188,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261024-1700@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261024T100000Z
 SUMMARY:Всенощное бдение святым отцам VII Вс
  еленского Собора
@@ -202,7 +202,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261025-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261025T010000Z
 SUMMARY:Молебен
 LOCATION:Преображенский кафедральный собор
@@ -214,7 +214,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261025-0830@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261025T013000Z
 SUMMARY:Исповедь. Часы
 LOCATION:Преображенский кафедральный собор
@@ -226,7 +226,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261025-0900@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261025T020000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
@@ -239,7 +239,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-baptism-2026-10-25@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261025T040000Z
 SUMMARY:Таинство Крещения
 LOCATION:Преображенский кафедральный собор
@@ -250,7 +250,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-meeting-20261025-1130@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261025T043000Z
 SUMMARY:Детская воскресная школа
 LOCATION:Преображенский кафедральный собор
@@ -261,7 +261,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/events/sunday-sch
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-school-adults-2026-10-25@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261025T051000Z
 SUMMARY:Воскресная школа для взрослых
 LOCATION:Преображенский кафедральный собор
@@ -272,7 +272,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/events/sunday-sch
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261025-1600@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261025T090000Z
 SUMMARY:Полиелейное богослужение в честь И
  верской иконы Божией Матери и священно
@@ -289,7 +289,7 @@ URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cathedral-20261026-0800@preobrazhenskoe
-DTSTAMP:20261019T113611Z
+DTSTAMP:20261019T165659Z
 DTSTART:20261026T010000Z
 SUMMARY:Божественная литургия
 LOCATION:Преображенский кафедральный собор
