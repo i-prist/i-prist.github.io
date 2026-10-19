@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Preobrazhenskoe//Schedule//RU
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Asia/Novosibirsk
+BEGIN:VEVENT
+UID:cathedral-20261019-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261019T010000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Апостола Фомы (I). Служит иерей Фил
+ ипп Медведев 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261019-1700@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261019T100000Z
+SUMMARY:Вечернее богослужение мученикам Се
+ ргию и Вакху
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Мучеников Сергия и Вакха (290–303). С
+ лужит иерей Филипп Медведев 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261020-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261020T010000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Мучеников Сергия и Вакха (290–303). С
+ лужит иерей Филипп Медведев 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261020-0930@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261020T023000Z
+SUMMARY:Панихида в день памяти епископа Сер
+ гия (Соколова)
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Мучеников Сергия и Вакха (290–303). С
+ лужит иерей Филипп Медведев 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261020-1200@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261020T050000Z
+SUMMARY:Панихида в день памяти епископа Сер
+ гия (Соколова)
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Мучеников Сергия и Вакха (290–303). С
+ овершает епископ Каинский и Барабински
+ й Владимир Совершает епископ Каинский 
+ и Барабинский Владимир. В день тезоимен
+ итства епископа Сергия (Соколова)\, на е
+ го могиле за алтарём Преображенского с
+ обора.
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261020-1700@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261020T100000Z
+SUMMARY:Вечернее богослужение преподобной 
+ Пелагии
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Преподобной Пелагии (457). День пос
+ тный. Служит иерей Евгений Ильин 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-meeting-20261020-1800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261020T110000Z
+SUMMARY:Беседа перед Крещением
+LOCATION:Преображенский кафедральный собор
+ \, Бердск\, ул. Горького\, 44
+DESCRIPTION:Проводит диакон Димитрий Плотник
+ ов 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/events/baptism-ta
+ lks
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261021-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261021T010000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Преподобной Пелагии (457). День пос
+ тный. Служит иерей Евгений Ильин 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261021-1700@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261021T100000Z
+SUMMARY:Полиелейное богослужение апостолу 
+ Иакову Алфееву
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Апостола Иакова Алфеева (I). Служи
+ т иерей Евгений Ильин 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261022-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261022T010000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Апостола Иакова Алфеева (I). Служи
+ т иерей Евгений Ильин 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261022-1700@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261022T100000Z
+SUMMARY:Полиелейное богослужение преподоб
+ ному Амвросию Оптинскому. Акафист
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Преподобного Амвросия Оптинског
+ о (1891). День постный. Служит иерей Даниил
+  Морозов 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261023-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261023T010000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Преподобного Амвросия Оптинског
+ о (1891). День постный. Служит иерей Даниил
+  Морозов 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261023-1700@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261023T100000Z
+SUMMARY:Вечернее богослужение апостолу Фил
+ иппу\, единому от семи диаконов
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Апостола Филиппа\, единого от сем
+ и диаконов (I). Служит иерей Даниил Мороз
+ ов 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261024-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261024T010000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Апостола Филиппа\, единого от сем
+ и диаконов (I). Служит иерей Даниил Мороз
+ ов 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261024-0930@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261024T023000Z
+SUMMARY:Панихида
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Апостола Филиппа\, единого от сем
+ и диаконов (I). Служит иерей Даниил Мороз
+ ов 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261024-1700@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261024T100000Z
+SUMMARY:Всенощное бдение святым отцам VII Вс
+ еленского Собора
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Неделя 21-я по Пятидесятнице. Памя
+ ть святых отцов VII Вселенского Собора (78
+ 7). Соборно · предстоятель протоиерей Па
+ вел Плотников 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261025-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261025T010000Z
+SUMMARY:Молебен
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Неделя 21-я по Пятидесятнице. Памя
+ ть святых отцов VII Вселенского Собора (78
+ 7). Духовенство собора 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261025-0830@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261025T013000Z
+SUMMARY:Исповедь. Часы
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Неделя 21-я по Пятидесятнице. Памя
+ ть святых отцов VII Вселенского Собора (78
+ 7). Духовенство собора 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261025-0900@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261025T020000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Неделя 21-я по Пятидесятнице. Памя
+ ть святых отцов VII Вселенского Собора (78
+ 7). Соборно · предстоятель протоиерей Па
+ вел Плотников Верхний храм.
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-baptism-2026-10-25@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261025T040000Z
+SUMMARY:Таинство Крещения
+LOCATION:Преображенский кафедральный собор
+ \, нижний храм\, Бердск\, ул. Горького\, 44
+DESCRIPTION:Совершает иерей Филипп Медведев 
+ Нижний храм.
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-meeting-20261025-1130@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261025T043000Z
+SUMMARY:Детская воскресная школа
+LOCATION:Преображенский кафедральный собор
+ \, Бердск\, ул. Горького\, 44
+DESCRIPTION:
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/events/sunday-sch
+ ool
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-school-adults-2026-10-25@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261025T051000Z
+SUMMARY:Воскресная школа для взрослых
+LOCATION:Преображенский кафедральный собор
+ \, Бердск\, ул. Горького\, 44
+DESCRIPTION:Ведёт иерей Евгений Ильин 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/events/sunday-sch
+ ool-adults
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261025-1600@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261025T090000Z
+SUMMARY:Полиелейное богослужение в честь И
+ верской иконы Божией Матери и священно
+ мучеников Иннокентия и Николая Новосиб
+ ирских
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Иверской иконы Божией Матери (при
+ несение в Москву в 1648 г.). Священномучен
+ иков Иннокентия и Николая пресвитеров 
+ Новосибирских (1937). Служит иерей Филипп 
+ Медведев 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cathedral-20261026-0800@preobrazhenskoe
+DTSTAMP:20261019T113611Z
+DTSTART:20261026T010000Z
+SUMMARY:Божественная литургия
+LOCATION:Преображенский кафедральный собор
+  Бердск\, ул. Горького\, д. 44
+DESCRIPTION:Иверской иконы Божией Матери (при
+ несение в Москву в 1648 г.). Священномучен
+ иков Иннокентия и Николая пресвитеров 
+ Новосибирских (1937). Служит иерей Филипп 
+ Медведев 
+URL:https://preobrazhenskoe-berdsk.i-prist.chatgpt.site/temples/temple-1
+END:VEVENT
+END:VCALENDAR
